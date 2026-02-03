@@ -21,7 +21,7 @@ FROM supply_chain_data
 GROUP BY product_type
 ORDER BY avg_revenue DESC;
 
--- Q2- Supplier with the longest manufacturing lead times
+-- Q2- Supplier with the longest manufacturing lead time
 SELECT
   supplier_name,
   AVG(manufacturing_lead_time) AS avg_mfg_lead_time
@@ -79,3 +79,11 @@ SELECT
 FROM supply_chain_data
 GROUP BY customer_demographics
 ORDER BY total_revenue DESC;
+
+
+-- Defect rates by inspection outcome (for pivot table)
+SELECT 
+	inspection_results,
+    defect_rates
+FROM supply_chain_data
+ORDER BY inspection_results;
