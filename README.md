@@ -3,7 +3,7 @@ End-to-end analysis of supply chain operations for a fashion and beauty startup,
 **Tools:** MySQL · Microsoft Excel · Data visualization
 
 ## Overview
-This project examines how products move from supplier to customer—covering manufacturing lead times, shipping performance, defect rates, and revenue by product and demographic segment.
+> This project examines how products move from supplier to customer—covering manufacturing lead times, shipping performance, defect rates, and revenue by product and demographic segment.
 The goal is to answer practical operations questions: which suppliers and carriers perform best, where costs concentrate, and whether inventory levels align with customer demand.
 ---
 
@@ -23,7 +23,7 @@ The SQL script (`sca sql project.sql`) addresses seven core questions:
 4. **Which shipping carrier is fastest on average?**
 5. **How do shipping costs vary by transportation mode?**
 6. **How do defect rates relate to inspection outcomes?**
-7. **How do customer demographics contribute to revenue — and do stock levels match demand?**
+7. **How do customer demographics contribute to revenue - and do stock levels match demand?**
 Additional queries include top-performing SKUs by revenue and data prep (e.g. standardizing the `revenue` column).
 
 
