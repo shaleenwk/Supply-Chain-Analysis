@@ -3,7 +3,7 @@ End-to-end analysis of supply chain operations for a fashion and beauty startup,
 **Tools:** MySQL · Microsoft Excel · Data visualization
 
 ## Overview
-> This project examines how products move from supplier to customer—covering manufacturing lead times, shipping performance, defect rates, and revenue by product and demographic segment.
+> This project examines how products move from supplier to customer - covering manufacturing lead times, shipping performance, defect rates, and revenue by product and demographic segment.
 The goal is to answer practical operations questions: which suppliers and carriers perform best, where costs concentrate, and whether inventory levels align with customer demand.
 ---
 
