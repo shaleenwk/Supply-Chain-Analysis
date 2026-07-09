@@ -1,6 +1,6 @@
 # Supply Chain Performance Analysis
 End-to-end analysis of supply chain operations for a fashion and beauty startup, using SQL to uncover bottlenecks, cost drivers, and revenue patterns across manufacturing, logistics, and quality control.
-
+-
 **Tools:** MySQL · Microsoft Excel · Data visualization
 
 ## Overview
