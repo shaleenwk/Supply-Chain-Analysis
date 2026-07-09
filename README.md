@@ -1,5 +1,6 @@
 # Supply Chain Performance Analysis
 End-to-end analysis of supply chain operations for a fashion and beauty startup, using SQL to uncover bottlenecks, cost drivers, and revenue patterns across manufacturing, logistics, and quality control.
+
 **Tools:** MySQL · Microsoft Excel · Data visualization
 
 ## Overview
@@ -32,4 +33,5 @@ Shaleen K — Data Science & Analytics
 
 ## License
 This project is for educational purposes.
+
 Dataset credit: Kaggle — Supply Chain Dataset
